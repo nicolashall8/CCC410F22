@@ -1,4 +1,4 @@
-## Topics
+# Topics
 
 The first topic that I'm interested in is setting up **Logging and Management Infrastructure for cyber.local**. For this project, the client would be Devin and he wants to create a Wazuh and/or Elastic logging and network management system setup for the cyber.local network. There are some important features that are noted as requirements, this includes "dashboards that show system status, logged on users, resource utilization and security events".
 
